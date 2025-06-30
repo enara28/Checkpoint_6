@@ -243,11 +243,11 @@ A continuación voy a presentar un ejemplo de lo que acabo de explicar y su form
 
 Con decorador:
 
-![Con_decorador](/Con decorador.png)
+![Con_decorador](/Con_decorador.png)
 
 Sin decorador:
 
-![Sin_decorador](/Sin decorador.png)
+![Sin_decorador](/Sin_decorador.png)
 
 En ambos casos, el resultado es el mismo en consola:
 
