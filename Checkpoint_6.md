@@ -128,12 +128,12 @@ De forma general, las API sirven para administrar la comunicación entre servido
 
 Voy a presentar algunos de los tipos de API más comunes de forma un poco más extensa a continuación:
 
--Públicas o abiertas: cualquier programador puede tener acceso a estas API y a las aplicaciones que las utilizan para, por ejemplo, integrarlas en sus propios programas. Es el caso de Facebook, por ejemplo.
--Privadas: estas API solo se comunican de forma interna. Por ejemplo, sería el caso de los sistemas de comunicación internos de una empresa en la que todos los equipos están conectados pero no se puede acceder a ellos desde el exterior.
--Partners o socios: estas API tienen un acceso restringido a un sector específico de clientes, ya sea por condiciones de pago especiales o colaboración comercial, por ejemplo.
--Compuestas: como su nombre indica permite peticiones compuestas. Esto quiere decir que la API tomará varias peticiones a la vez y las gestionará de al mismo tiempo.
--REST: este tipo de API es muy popular por su sencillez y escalabilidad. Se basa en el uso estandarizado de verbos API: GET, POST, PUT, DELETE para llevar a cabo las acciones de comunicación.
--SOAP (Simple Object Acces Protocol): es otro sistema estandarizado que garantiza la precisión y la seguridad en la comunicación de datos.
+- Públicas o abiertas: cualquier programador puede tener acceso a estas API y a las aplicaciones que las utilizan para, por ejemplo, integrarlas en sus propios programas. Es el caso de Facebook, por ejemplo.
+- Privadas: estas API solo se comunican de forma interna. Por ejemplo, sería el caso de los sistemas de comunicación internos de una empresa en la que todos los equipos están conectados pero no se puede acceder a ellos desde el exterior.
+- Partners o socios: estas API tienen un acceso restringido a un sector específico de clientes, ya sea por condiciones de pago especiales o colaboración comercial, por ejemplo.
+- Compuestas: como su nombre indica permite peticiones compuestas. Esto quiere decir que la API tomará varias peticiones a la vez y las gestionará de al mismo tiempo.
+- REST: este tipo de API es muy popular por su sencillez y escalabilidad. Se basa en el uso estandarizado de verbos API: GET, POST, PUT, DELETE para llevar a cabo las acciones de comunicación.
+- SOAP (Simple Object Acces Protocol): es otro sistema estandarizado que garantiza la precisión y la seguridad en la comunicación de datos.
 Puedes encontrar más información sobre las API y sus tipos por medio de los siguientes recursos:
 
 <https://www.sydle.com/es/blog/api-6214f68876950e47761c40e7>
